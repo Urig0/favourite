@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: linear-gradient (orange 100%, hotpink 80%);
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    margin-right: 30px;
+}
+
+#head {
+    margin-top: 60px;
+
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+}
